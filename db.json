@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "allUsers": [
     {
       "album": ["https://randomwordgenerator.com/img/picture-generator/54e0d7474850ac14f1dc8460962e33791c3ad6e04e507441722978d6944cc4_640.jpg", "https://randomwordgenerator.com/img/picture-generator/57e0d5454b52ac14f1dc8460962e33791c3ad6e04e5074417d2e72d19f48c4_640.jpg", "https://randomwordgenerator.com/img/picture-generator/54e0d7474850ac14f1dc8460962e33791c3ad6e04e507441722978d6944cc4_640.jpg", "https://randomwordgenerator.com/img/picture-generator/57e0d5454b52ac14f1dc8460962e33791c3ad6e04e5074417d2e72d19f48c4_640.jpg", "https://randomwordgenerator.com/img/picture-generator/54e0d7474850ac14f1dc8460962e33791c3ad6e04e507441722978d6944cc4_640.jpg", "https://randomwordgenerator.com/img/picture-generator/57e0d5454b52ac14f1dc8460962e33791c3ad6e04e5074417d2e72d19f48c4_640.jpg"],
       "userName": "Иван Иванов",
