@@ -1,8 +1,64 @@
 {
-  "posts": [
+  "getAllUsers": [
     {
-      "id": 1,
-      "title": "hello"
+      "album": ["https://randomwordgenerator.com/img/picture-generator/54e0d7474850ac14f1dc8460962e33791c3ad6e04e507441722978d6944cc4_640.jpg","https://randomwordgenerator.com/img/picture-generator/57e0d5454b52ac14f1dc8460962e33791c3ad6e04e5074417d2e72d19f48c4_640.jpg","https://randomwordgenerator.com/img/picture-generator/54e0d7474850ac14f1dc8460962e33791c3ad6e04e507441722978d6944cc4_640.jpg","https://randomwordgenerator.com/img/picture-generator/57e0d5454b52ac14f1dc8460962e33791c3ad6e04e5074417d2e72d19f48c4_640.jpg","https://randomwordgenerator.com/img/picture-generator/54e0d7474850ac14f1dc8460962e33791c3ad6e04e507441722978d6944cc4_640.jpg","https://randomwordgenerator.com/img/picture-generator/57e0d5454b52ac14f1dc8460962e33791c3ad6e04e5074417d2e72d19f48c4_640.jpg"],
+      "userName": "Иван Иванов",
+      "companyName": "ABC Corporation",
+      "description": {
+        "age": 30,
+        "city": "Москва",
+        "email": "ivan@example.com",
+        "phone": "+7 123 456-78-90",
+        "interests": ["спорт", "музыка", "путешествия"]
+      }
+    },
+    {
+      "album": ["https://randomwordgenerator.com/img/picture-generator/55e4dd404f53ae14f1dc8460962e33791c3ad6e04e50744172287edc954fc7_640.jpg","https://randomwordgenerator.com/img/picture-generator/jump-2040426_640.jpg","https://randomwordgenerator.com/img/picture-generator/55e4dd404f53ae14f1dc8460962e33791c3ad6e04e50744172287edc954fc7_640.jpg","https://randomwordgenerator.com/img/picture-generator/jump-2040426_640.jpg","https://randomwordgenerator.com/img/picture-generator/55e4dd404f53ae14f1dc8460962e33791c3ad6e04e50744172287edc954fc7_640.jpg","https://randomwordgenerator.com/img/picture-generator/jump-2040426_640.jpg","https://randomwordgenerator.com/img/picture-generator/55e4dd404f53ae14f1dc8460962e33791c3ad6e04e50744172287edc954fc7_640.jpg","https://randomwordgenerator.com/img/picture-generator/jump-2040426_640.jpg"],
+      "userName": "Анна Смирнова",
+      "companyName": "XYZ Ltd.",
+      "description": {
+        "age": 28,
+        "city": "Санкт-Петербург",
+        "email": "anna@example.com",
+        "phone": "+7 987 654-32-10",
+        "interests": ["искусство", "литература", "путешествия"]
+      }
+    },
+    {
+      "album": ["https://randomwordgenerator.com/img/picture-generator/54e9d6474257ab14f1dc8460962e33791c3ad6e04e507749712e79d29348c2_640.jpg","https://randomwordgenerator.com/img/picture-generator/50e2d6464e52b10ff3d8992cc12c30771037dbf8525478487c2e7ed79249_640.jpg","https://randomwordgenerator.com/img/picture-generator/54e9d6474257ab14f1dc8460962e33791c3ad6e04e507749712e79d29348c2_640.jpg","https://randomwordgenerator.com/img/picture-generator/50e2d6464e52b10ff3d8992cc12c30771037dbf8525478487c2e7ed79249_640.jpg",,"https://randomwordgenerator.com/img/picture-generator/54e9d6474257ab14f1dc8460962e33791c3ad6e04e507749712e79d29348c2_640.jpg","https://randomwordgenerator.com/img/picture-generator/50e2d6464e52b10ff3d8992cc12c30771037dbf8525478487c2e7ed79249_640.jpg"],
+      "userName": "Михаил Сидоров",
+      "companyName": "123 Solutions",
+      "description": {
+        "age": 32,
+        "city": "Екатеринбург",
+        "email": "mikhail@example.com",
+        "phone": "+7 987 654-21-43",
+        "interests": ["технологии", "фотография", "горные лыжи"]
+      }
+    },
+    {
+      "album": ["https://randomwordgenerator.com/img/picture-generator/53e0d04b4d5ab10ff3d8992cc12c30771037dbf85254784a722e7cd09645_640.jpg","https://randomwordgenerator.com/img/picture-generator/55e3d0474a54ae14f1dc8460962e33791c3ad6e04e5074417c2f7dd59445c7_640.jpg","https://randomwordgenerator.com/img/picture-generator/53e0d04b4d5ab10ff3d8992cc12c30771037dbf85254784a722e7cd09645_640.jpg","https://randomwordgenerator.com/img/picture-generator/55e3d0474a54ae14f1dc8460962e33791c3ad6e04e5074417c2f7dd59445c7_640.jpg"],
+      "userName": "Елена Иванова",
+      "companyName": "ABC Corp",
+      "description": {
+        "age": 34,
+        "city": "Казань",
+        "email": "elena@example.com",
+        "phone": "+7 987 654-76-54",
+        "interests": ["спорт", "мода", "кулинария"]
+      }
+    },
+    {
+      "album": ["https://randomwordgenerator.com/img/picture-generator/54e5d7444854ae14f1dc8460962e33791c3ad6e04e5074417d2c7ed19749cd_640.jpg","https://randomwordgenerator.com/img/picture-generator/55e7d24a4255b10ff3d8992cc12c30771037dbf85254784a70287bd29044_640.jpg"],
+      "userName": "Алексей Николаев",
+      "companyName": "Tech Innovations",
+      "description": {
+        "age": 29,
+        "city": "Новосибирск",
+        "email": "alex@example.com",
+        "phone": "+7 987 654-98-76",
+        "interests": ["программирование", "музыка", "гейминг"]
+      }
     }
   ],
   "profile": {
